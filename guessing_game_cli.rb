@@ -1,11 +1,10 @@
 def run_guessing_game
-  input=gets.chomp
-
-puts "Goodbye!"
-input
-puts "Sorry! The computer guessed 6."
-input
-puts "You guessed the correct number!"
+# input=gets.chomp
+# puts "Goodbye!"
+# input
+# puts "Sorry! The computer guessed 6."
+# input
+# puts "You guessed the correct number!"
 end
 
 # def run_guessing_game
@@ -19,4 +18,13 @@ end
 #   else
 #     puts "Sorry! The computer guessed #{num}."
 #   end
+# end
+
+# def run_guessing_game
+# input=gets.chomp
+# puts "Goodbye!"
+# input
+# puts "Sorry! The computer guessed 6."
+# input
+# puts "You guessed the correct number!"
 # end

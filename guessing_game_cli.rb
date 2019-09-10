@@ -1,3 +1,3 @@
-def run_guessing_game
-gets.chomp
-end
+# def run_guessing_game
+# gets.chomp
+# end

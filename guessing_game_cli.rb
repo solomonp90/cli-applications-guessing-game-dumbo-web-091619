@@ -1,10 +1,5 @@
 def run_guessing_game
-gets.chomp
-  puts "Goodbye!"
-# input
-# puts "Sorry! The computer guessed 6."
-# input
-# puts "You guessed the correct number!"
+
 end
 
 # def run_guessing_game

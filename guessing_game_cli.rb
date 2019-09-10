@@ -1,5 +1,5 @@
 def run_guessing_game
-
+rand
 end
 
 # def run_guessing_game

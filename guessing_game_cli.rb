@@ -5,7 +5,7 @@ input=gets.chomp
 if input==num
   puts "You guessed the correct number!"
 elsif input!=num
-  puts "Sorry! The computer guessed"
+  puts "Sorry! The computer guessed""#{num}."  
 
 end
 

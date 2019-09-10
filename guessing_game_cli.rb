@@ -1,4 +1,4 @@
 def run_guessing_game
- input=gets.chomp
- 
+ # input=gets.chomp
+
 end

@@ -4,5 +4,5 @@ puts "Goodbye!"
 input
 puts "Sorry! The computer guessed 6."
 input
-puts ""
+puts "You guessed the correct number!"
 end

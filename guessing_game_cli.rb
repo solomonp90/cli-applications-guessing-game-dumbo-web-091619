@@ -1,5 +1,5 @@
 def run_guessing_game
-num=
+num=rand(6)+1
 
 end
 

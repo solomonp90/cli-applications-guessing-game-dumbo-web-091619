@@ -4,8 +4,8 @@ puts "guess a number between 1 and 6"
 input=gets.chomp
 if input==num
   puts "You guessed the correct number!"
-elsif input==
-
+elsif input!=num
+  puts
 end
 end
 

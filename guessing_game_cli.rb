@@ -1,3 +1,7 @@
+def run_guessing_game
+
+end
+
 # def run_guessing_game
 #   puts "What's your guess?"
 #   num = rand(1..6) + 1

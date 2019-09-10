@@ -6,7 +6,7 @@ if input==num
   puts "You guessed the correct number!"
 elsif input=="exit"
   puts "Goodbye!"
-else input!=num
+else 
   puts "Sorry! The computer guessed ""#{num}."
 end
 

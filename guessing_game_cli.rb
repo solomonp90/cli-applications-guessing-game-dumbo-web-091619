@@ -4,13 +4,18 @@ puts "guess a number between 1 and 6"
 input=gets.chomp
 if input==num
   puts "You guessed the correct number!"
-elsif input!=num
-  puts "Sorry! The computer guessed ""#{num}."
 elsif input=="exit"
   puts "Goodbye!"
+else
+  puts "Sorry! The computer guessed ""#{num}."
 end
 
 end
+
+# 
+# input!=num
+#   puts "Sorry! The computer guessed ""#{num}."
+
 
 # def run_guessing_game
 # input=gets.chomp

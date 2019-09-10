@@ -3,4 +3,6 @@ def run_guessing_game
 puts "Goodbye!"
 input
 puts "Sorry! The computer guessed 6."
+input
+puts ""
 end

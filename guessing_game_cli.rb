@@ -6,6 +6,7 @@ if input==num
   puts "You guessed the correct number!"
 elsif input!=num
   puts "Sorry! The computer guessed"
+
 end
 
 end

@@ -5,10 +5,10 @@ input=gets.chomp
 if input==num
   puts "You guessed the correct number!"
 elsif input!=num
-  puts
-end
+  puts "Sorry! The computer guessed"
 end
 
+end
 
 # def run_guessing_game
 # input=gets.chomp

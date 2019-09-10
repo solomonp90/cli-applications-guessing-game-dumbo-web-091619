@@ -1,6 +1,6 @@
 def run_guessing_game
 gets.chomp
- # puts "Goodbye!"
+  puts "Goodbye!"
 # input
 # puts "Sorry! The computer guessed 6."
 # input

@@ -1,7 +1,7 @@
 def run_guessing_game
   input=gets.chomp
   num = rand(1..6) + 1
-puts "What's your guess?"
+
 
 
 # puts "Goodbye!"
